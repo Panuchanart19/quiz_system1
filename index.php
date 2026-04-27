@@ -1,1 +1,3 @@
-<Word?>
+<?php
+  echo "Hallo Panuchanart"
+?>
